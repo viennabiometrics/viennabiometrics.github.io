@@ -1,0 +1,245 @@
+---
+title: "Seminare und Events"
+format: html
+---
+
+## 2024
+- **Summer Biometric Seminar 2024**  
+  *Bridging the Gap Between Bayesian & Frequentist Approaches in Clinical Trials for Drug Development*  
+  [**Program & Abstracts**](abstracts/20240621_Biometric_Seminar_Summer_2024.pdf)  
+  **Organizers**: Franz König, Elias Laurin Meyer  
+
+## 2023
+- **Herbstseminar SAMBA**  
+  *Statistical Model Building Strategies for Cardiologic Applications: New results and future challenges*  
+  [**Program & Abstracts**](abstracts/SAMBA-WBS-Seminar-Invitation.pdf)  
+  **Organizers**: Daniela Dunkler, Georg Heinze, Heiko Becher, Geraldine Rauch  
+  23–24 November 2023  
+
+- **Joint Seminar with the Biometric Section of Styria-Carinthia**  
+  [**Program & Abstracts**](abstracts/20230504_Meeting_Wien_Graz.pdf)  
+  **Organizers**: Florian Frommlet, Sereina Herzog  
+  4 May 2023  
+
+## 2020
+- **Joint Seminar with the Biometric Section of Styria-Carinthia and the Department of Medical Statistics, Informatics, and Health Economics**  
+  [**Program & Abstracts**](abstracts/Seminar_Programm_02122020.pdf)  
+  **Organizers**: Andrea Berghold, Franz König  
+  2 December 2020  
+
+## 2019
+- **WBS Autumn Seminar**  
+  *Update in Evidence Synthesis Methods - Current Topics in Meta-analysis*  
+  [**Program & Abstracts**](abstracts/20191113_Herbstseminar_prog_final.pdf)  
+  **Organizers**: Harald Herkner, Susanne Strohmaier  
+  13 November 2019  
+
+  Presentations:  
+  - Gerald Gartlehner: *Evidence-based medicine can harm your health - Cochrane Austria's battle against fake health news*  [Slides](abstracts/Gartlehner_MUW_symposium-clean.pdf)  
+  - Irma Klerings: *Systematic literature searching*  [Slides](abstracts/Klerings_systematic_searching.pdf)  
+  - Barbara Nussbaumer-Streit: *Research on methodological aspects of evidence syntheses - Current insights*  [Slides](abstracts/Vortrag_MUW_Nussbaumer_Streit.pdf)  
+  - Thomas Debray: *Systematic review and meta-analysis of prediction model studies*  [Slides](abstracts/Herbstseminar_2019_Debray.pdf)  
+  - Maria Haller: *A systematic review of risk prediction models in living donor transplantation - Unmasking flawed predictions*  [Slides](abstracts/Risk _prediction_living_donor.pdf)  
+  - Martin Posch: *Repeated meta-analysis: Pros and cons of multiplicity adjustments*  [Slides](abstracts/2019_11_TSA_share.pdf)  
+  - Dominik Roth: *Influence of different mortality time points on pooled effect estimates*  [Slides](abstracts/Roth_WBS.pdf)  
+
+- **WBS Seminar**  
+  *Update your prior: The power of Bayesian Tools for Research*  
+  [**Program & Abstracts**](abstracts/2019_02_22_WBS_Seminar_2019_Bayesian.pdf)  
+  **Organizers**: Franz König, Elias Meyer, Martin Posch, Simon Wandel  
+  22 February 2019  
+
+## 2018
+- **Joint Seminar with the Biometric Section of Styria-Carinthia (co-organized with IDEAS ITN)**  
+  [**Program & Abstracts**](abstracts/2018_Seminar_flyer_joint_Graz.pdf)  
+  **Organizers**: Andrea Berghold, Franz König, Nicolas Ballarini  
+  29 November 2018  
+
+  Presentations:  
+  - Thomas Jaki: *The IDEAS network: Training and research under one umbrella* [Slides](abstracts/talk_Jaki_2018.pdf)   
+  - Andreas Gleiss: *Quantifying degrees of necessity and sufficiency in cause-effect relationships with dichotomous and survival outcomes*  
+  - Edith Hofer: *Genome-wide association study of cortical thickness, surface area and volume – A case study!* 
+  - Sonja Zehetmayer: *A new omnibus test for the global null hypothesis* [Slides](abstracts/talk_Zehetmayer_2018.pdf)   
+  - Alexander Avian: *Scaling properties of pain intensity ratings in pediatric populations using the Faces Pain Scale-revised* [Slides](abstracts/talk_Avian_2018.pdf)   
+  - Susanne Strohmaier: *Time-dependent mediators in survival analysis: Modeling direct and indirect effects with the additive hazards model* [Slides](abstracts/talk_Strohmaier_2018.pdf)   
+  - Susanne Urach: *Testing endpoints with unknown correlation* [Slides](abstracts/talk_Urach_2018.pdf)   
+  - Michael Kammer: *Combining dynamic Cox prediction models and the Lasso*  
+  - Nicolas Ballarini: *Graphical approaches for subgroup analysis in clinical trials*  
+
+- **Workshop**  
+  *Instrumental Variable Methods in Epidemiology*  
+  Presenter: Sonja A. Swanson  
+  [**Program**](abstracts/20180528_Swanson.pdf)
+  
+  **Organizer**: Georg Heinze  
+
+## 2017
+- **Short Course**  
+  *Exploratory Subgroup Analyses in Clinical Trials*  
+  [**Program**](abstracts/20171206_ShortCourse_Rosenkranz.pdf)
+  
+  **Organizer and Presenter**: Gerd Rosenkranz  
+  6 December 2017  
+
+- **WBS Autumn Seminar**  
+  *Young Statisticians*  
+  [**Program**](abstracts/20171025_Seminar_flyer.pdf)
+  
+  **Organizers**: Johanna Mielke, Julia Niewczas, Nicolas Ballarini  
+  25 October 2017  
+
+- **Joint Seminar with the Hungarian Society for Clinical Biostatistics and Accelsiors Ltd.**  
+  *2nd Annual Biosimilars Forum*  
+  [**Program**](abstracts/20171006_2ndBiosimForum.pdf)
+  
+  **Organizers**: Julia Singer, Stephan Lehr  
+  6 October 2017  
+
+## 2016
+- **WBS Advent Seminar**  
+  *Sample Size*  
+  [**Program & Abstracts**](abstracts/adventseminar.pdf)  
+  **Organizers**: Martina Mittlböck, Harald Heinzl  
+  19 December 2016  
+
+- **Joint Seminar with the Biometric Section of Styria-Carinthia**  
+  [**Program & Abstracts**](abstracts/2016_11_24_Gemeinsames_Seminar_Graz.pdf)  
+  **Organizers**: Andrea Berghold, Franz König  
+  24 November 2016  
+
+- **WBS Autumn Seminar 2016**  
+  (Co-organized with EU Project FP7 IDeAl and Asterix)  
+  [**Program & Abstracts**](abstracts/2016_11_09_WBS_Herbstseminar.pdf)  
+  **Organizers**: Franz König, Martin Posch  
+  9 November 2016  
+
+  Presentations:  
+  - R. A. Bailey: *The design of blocked experiments when the average replication is very low* [Slides](abstracts/rab4wien.pdf)   
+  - Christopher Jennison: *Designing an adaptive trial with treatment selection and a survival endpoint* [Slides](abstracts/cj_wbs_ibs_vienna_nov2016.pdf)   
+  - Ralf-Dieter Hilgers: *The selection of a randomization procedure to avoid the impact of bias on the test result in clinical trials – A case study!* [Slides](abstracts/2016_08_ISCB.pdf)   
+  - Stephen Senn: *On being Bayesian* [Slides](abstracts/On%20being%20Bayesian%20Vienna%20Nov%202016.pptx)   
+  - Kit Roes: *Hybrid Bayesian-frequentist approaches for small sample trial design: examples and discussion on concepts* [Slides](abstracts/KRoes_WBS_9Nov2016.pdf)   
+
+- **Joint Seminar with the Hungarian Society for Clinical Biostatistics and Accelsiors Ltd.**  
+  *1st Annual Biosimilars Forum*  
+  [**Program & Abstracts**](abstracts/BiosimilarAgendafinal2.pdf)  
+  **Organizers**: Julia Singer, Stephan Lehr  
+  7 October 2016  
+
+- **First Joint Seminar with the Austrian Society for Epidemiology**  
+  [**Program & Abstracts**](abstracts/gemeinsames_seminar_Ankuendigung.pdf)  
+  **Organizers**: Thomas Waldhör, Martina Mittlböck, Harald Heinzl  
+  30 September 2016  
+
+  Presentations:  
+  - Gerald Gartlehner: *Evidence-based Medicine: Optimal decisions require the best available knowledge*  
+  - Julia Kerschbaum: *Cardiovascular and renal long-term complications after living kidney donation – A systematic review and single-center analysis*  
+  - Daniela Zöller: *Pseudo-value regression in competing risks settings*  
+  - Josef Fritz: *Do metabolic risk factors mediate the genetic risk for coronary heart disease?*  
+  - Lin Yang: *Leisure-time physical activity and circulating 25-hydroxyvitamin D levels in cancer survivors*  
+
+- **WBS Summer Seminar 2016**  
+  *To New Shores in Drug Development - Implementing Statistical Innovation*  
+  [**Program & Abstracts**](abstracts/2016_06_27_Summer_Symposium.pdf)  
+  **Organizers**: Martin Posch, Franz König  
+  27 June 2016  
+
+  Presentations:  
+  - Willi Maurer: *A robust combination test for sample size adaptation in a two-stage cross-over trial for Average Bioequivalence*  
+  - Peter Bauer: *Flexibility in confirmatory clinical trials – what is for free?*  
+  - Frank Bretz: *Changing the Culture of Drug Development: The Need to Implement Innovative Scientific Solutions*  
+
+- **WBS Festsymposium: 25 Years of Clinical Biometry**  
+  *Advances in Trial Design*  
+  [**Program & Abstracts**](abstracts/20160414_25JahreKlinischeBiometrie.pdf)  
+  **Organizer**: Georg Heinze  
+  14 April 2016  
+
+---
+
+## 2015
+- **WBS Autumn Seminar 2015**  
+  *Advances in Trial Design*  
+  [**Program & Abstracts**](abstracts/20151007_WBSHerbstseminar.pdf)  
+  **Organizer**: Franz König  
+  7 October 2015  
+
+---
+
+## 2014
+- **WBS Winter Seminar 2014**  
+  *Innovative Statistical Approaches in Drug Development*  
+  [**Program & Abstracts**](abstracts/WBS_Winter_Seminar_2014_12_02.pdf)  
+  **Organizers**: Franz König, Martin Posch, Stephan Lehr  
+  2 December 2014  
+
+- **WBS Autumn Seminar 2014**  
+  *Applied Statistics at the University of Natural Resources and Life Sciences*  
+  [**Program & Abstracts**](abstracts/20141106_BOKU.pdf)  
+  **Organizer**: Karl Moder  
+  6 November 2014  
+
+  Presentations:  
+  - Bernhard Spangl: *Extreme value statistics and robust filtering for hydrological data*  [Slides](abstracts/20141106_Spangl.pdf)  
+  - Gregor Laaha: *Geostatistical models for river networks*  [Slides](abstracts/20141106_RoES_Laaha_Geostats.pdf)  
+  - Rainer Dangl & Friedrich Leisch: *The benchmark data library project: A metadata repository for artificial data*  [Slides](abstracts/2014_11_Dangl.pdf)  
+
+- **WBS Summer Seminar 2014**  
+  *Re-use of Health Data for Medical Research*  
+  [**Program & Abstracts**](abstracts/2014_06_12_WBS%20Sommer%20Seminar%20Re-use.pdf)  
+  **Organizers**: Georg Heinze, Franz König, Martin Posch  
+  12 June 2014  
+
+---
+
+## 2013
+- **WBS Autumn Seminar 2013**  
+  *Book Presentations in Statistics*  
+  [**Program & Abstracts**](abstracts/20131121_WBS_Herbstseminar_Buchpraesentation.pdf)  
+  **Organizers**: Gerhard Svolba, Franz König  
+  21 November 2013  
+
+  Presentations:  
+  - Reinhard Viertl: *Statistics Based on Imprecise Information*  [Slides](abstracts/Viertl_Folien%20Biometrische%20Sektion.pdf) 
+  - Peter Filzmoser: *Multivariate Regression and Classification with Applications in Chemometrics*  [Slides](abstracts/PeterFilzmoser.pdf) 
+  - Klemens Schadauer: *Forest Inventories Around the World - More than Counting Trees?*  [Slides](abstracts/KlemensSchadauer.pdf) 
+  - Thomas Benesch: *Key Concepts in Statistics: Methods, Distributions, and Tests Explained Simply*  [Slides](abstracts/ThomasBenesch.pdf) 
+  - Herbert Nagel: *Comments on "R Introduction through Applied Statistics"*  [Slides](abstracts/HerbertNagel.pdf) 
+  - Gerhard Svolba: *Data Quality for Analytics Using SAS*  [Slides](abstracts/GerhardSvolba.pdf) 
+
+- **WBS Summer Seminar 2013**  
+  *Did the Genomic Data Flood Overrun the Statistical Levee? Statistical Approaches to Analyze Genomic Data (Without Drowning)*  
+  [**Program & Abstracts**](abstracts/WBS_Sommer_seminar_final.pdf)  
+  **Organizers**: Georg Heinze, Stephan Lehr  
+  4 July 2013  
+
+  Presentations:  
+  - Stephan Lehr: *Practical Aspects in Design and Analysis of Biomarker Studies*  [Slides](abstracts/2013_WBS_Seminar_Lehr.pdf) 
+  - Andreas Gleiss: *Test Statistics for Two-group Comparisons of Zero-inflated Intensity Values*  [Slides](abstracts/2013_WBS_Seminar_Presentation_Gleiss.pdf) 
+  - Sonja Zehetmayer: *Stopping Rules for Sequential Trials in High-dimensional Data*  [Slides](abstracts/2013_wbs_seminar_Zehetmayer.pdf) 
+  - Markus Jaritz: *Next-generation Sequencing Data Analysis: From ChIP-seq Read Islands to Epigenomics Information*  [Slides](abstracts/2013_WBS_Sommer_Seminar_Jaritz.pdf) 
+  - Christoph Bock: *The Relevance of Next-generation Sequencing for Personalized Medicine*  
+  - Lara Lusa (University of Ljubljana): *Class-imbalanced class prediction for high-dimensional data* [Slides](abstracts/2013_WBS_Sommer_Seminar_Lusa.pdf) 
+  - Daniela Dunkler (Med. Univ. Wien): *Gene selection in microarray survival studies under non-proportional hazards* [Slides](abstracts/2013_WBS_Seminar_Dunkler_2013-07-02%20Presentation%20Concordance%20Regression.pdf) 
+  - Harald Binder (Johannes-Gutenberg-University Mainz): *Regularized regression for omics data: Why one size doesn’t fit all, but you nevertheless should try* [Slides](abstracts/2013_wbs_seminar_binder_130622_R2_Vortrag_Wien,_Regularization_for_SNP_and_RNA-Seq_Short.pdf)
+  - Georg Heinze (Med. Univ. Wien): *How the levee bears out against the flood: summary and discussion* [Slides](abstracts/2013_WBS_Sommer_Seminar_Heinze.pdf) 
+
+---
+
+## 2012
+- **WBS Autumn Seminar 2012**  
+  *Statistische Software für Biometrische Auswertungen*  
+  [**Program & Abstracts**](abstracts/20121127_WBS_Herbst_Seminar.pdf)  
+  **Organizers**: Gerhard Svolba, Franz König  
+  27 November 2012  
+
+  Presentations:  
+  - Dr. Valérie Nedbal: *JMP® for Life Sciences Adds Ways to Explore Clinical Data Visually* [Slides](abstracts/Nedbal_JMP_Clinical_4_0_phuse.pdf) 
+  - Friedrich Leisch: *R from a Different Perspective: Beyond the Command Prompt*  
+  - Gerhard Svolba: *Analytical Data Management and Biometric Analyses with SAS 9.3*  
+  [Slides](abstracts/Svolba%20Analytisches%20Datenmanagement%20und%20biometrische%20Auswertungen%20mit%20SAS%209.3%2020121127.pdf) 
+  [SAS Files](abstracts/Svolba.zip) 
+  - Christian Trippner: *Information on IBM Business Analytics* [Slides](abstracts/Trippner_WienerBioSektion2012.pdf) 
+
+
+

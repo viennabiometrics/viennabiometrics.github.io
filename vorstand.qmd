@@ -1,0 +1,23 @@
+---
+title: "Vorstand und Impressum"
+format: 
+  html:
+    toc: false
+---
+
+## Vorstand
+
+### Sekretär:
+
+**Elias Laurin Meyer**  
+Berry Consultants  
+e-mail: elias AT berryconsultants.com  
+
+### Präsident:
+
+**Florian Frommlet**  
+Institut für medizinische Statistik  
+Medizinische Universität Wien  
+Spitalgasse 23, A-1090 Wien  
+Tel.: +43(1)40400-74920  
+e-mail: florian.frommlet AT meduniwien.ac.at

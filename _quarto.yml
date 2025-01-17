@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - "abstracts/*"
+
+website:
+  title: "Wiener Biometrische Sektion"
+  navbar:
+    left:
+      - kolloquien.qmd
+      - seminare.qmd
+    right:
+      - geschichte.qmd
+      - statuten.qmd
+      - mitgliedschaft.qmd
+      - vorstand.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
+

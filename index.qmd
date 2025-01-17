@@ -1,0 +1,30 @@
+---
+title: "Wiener Biometrische Sektion"
+subtitle: |
+  der [Region Österreich-Schweiz (ROeS)](https://www.ibs-roes.org)
+  der [Internationalen Biometrischen Gesellschaft](https://www.biometricsociety.org/home).
+format:
+  html:
+    toc: false
+
+about:
+  id: about
+  template: jolla
+  image: "media/ROeS-Logo.jpg"
+  image-shape: rectangle
+  links:
+    - text: Kolloquien
+      href: kolloquien.qmd
+    - text: Seminare
+      href: seminare.qmd
+    - text: Geschichte
+      href: geschichte.qmd
+    - text: Statuten
+      href: statuten.qmd
+    - text: Mitgliedschaft
+      href: mitgliedschaft.qmd
+    - text: Vorstand
+      href: vorstand.qmd
+---
+
+Die Wiener Biometrische Sektion (WBS) ist eine von drei Sektionen der Region Österreich-Schweiz der Internationalen Biometrischen Gesellschaft. Die Wiener Sektion soll vor allem den Kontakt der Biometriker im Wiener Raum verstärken. Es werden mehrmals jährlich Veranstaltungen mit Vorträgen zu den verschiedensten Biometrischen Themen organisiert. Der Vorstand der Wiener Biometrischen Sektion besteht aus Präsident(in) und Sekretär(in), die ca. alle 2 Jahre neu gewählt werden.

@@ -1,0 +1,36 @@
+---
+title: "Geschichte"
+format: 
+  html:
+    toc: false
+---
+
+**Geschichte der Wiener Biometrischen Sektion**
+
+Gegründet wurde die Wiener Sektion unter der ROeS-Präsidentschaft von Prof. Bauer. Am 11. 10. 1979 wurde in einer ersten Aktion ein Fragebogen an zukünftige Mitglieder ausgeschickt, wobei der Bedarf einer Biometrischen Sektion im Wiener Raum eruiert wurde. Schon im Jahre 1980 fand die erste Veranstaltung statt, aber erst 1981 beim ROeS-Seminar in Bad Ischl wurde die Wiener Biometrische Sektion vom Vorstand der Region Österreich-Schweiz genehmigt. Unten finden Sie eine Liste des aktuellen und ehemaligen Vorstands.
+
+| Years       | President               | Secretary              |
+|-------------|-------------------------|------------------------|
+| 2025-       | Florian Frommlet       | Elias Laurin Meyer    |
+| 2023-2025   | Martin Wolfsegger      | Florian Frommlet      |
+| 2020-2022   | Susanne Strohmaier     | Martin Wolfsegger     |
+| 2018-2020   | Harald Herkner         | Susanne Strohmaier    |
+| 2016-2018   | Stephan Lehr           | Harald Herkner        |
+| 2014-2016   | Franz König            | Stephan Lehr          |
+| 2012-2014   | Gerhard Svolba         | Franz König           |
+| 2011-2012   | Georg Heinze           | Gerhard Svolba        |
+| 2010-2011   | Georg Heinze           | Martin Posch          |
+| 2008-2010   | Thomas Lang            | Georg Heinze          |
+| 2006-2008   | Werner Brannath        | Thomas Lang           |
+| 2004-2006   | Karl Moder             | Werner Brannath       |
+| 2002-2004   | Thomas Waldhör         | Karl Moder            |
+| 1999-2002   | Barbara Schneider      | Thomas Waldhör        |
+| 1997-1999   | Martina Mittlböck      | Barbara Schneider     |
+| 1994-1997   | Johann Sölkner         | Martina Mittlböck     |
+| 1992-1994   | Werner Timischl        | Johann Sölkner        |
+| 1990-1992   | Liselotte Havelec      | Werner Timischl       |
+| 1988-1990   | Michael Schemper       | Liselotte Havelec     |
+| 1986-1988   | Peter Bauer            | Michael Schemper      |
+| 1984-1986   | Kurt Ehrendorfer       | Peter Bauer           |
+| 1982-1984   | Werner J. Klähring     | Kurt Ehrendorfer      |
+| 1980-1982   | F. X. Wohlzogen        | Werner J. Klähring    |

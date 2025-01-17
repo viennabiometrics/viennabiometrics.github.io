@@ -1,0 +1,10 @@
+---
+title: "Mitgliedschaft"
+format: 
+  html:
+    toc: false
+---
+
+Die Mitgliedschaft bei der Wiener Biometrischen Sektion ist kostenlos, man sollte jedoch Mitglied der Region Österreich-Schweiz der Internationalen Biometrischen Gesellschaft sein.
+
+Sollten Sie sich für eine Mitgliedschaft bei der Wiener Sektion interessieren, so wenden sie sich bitte per Email an den Sekretär bzw. den Präsidenten der Sektion ([Vorstand](/vorstand.qmd)) .

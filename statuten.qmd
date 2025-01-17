@@ -1,0 +1,20 @@
+---
+title: "Statuten"
+format: 
+  html:
+    toc: false
+---
+
+**Statuten der Wiener Sektion der Internationalen Biometrischen Gesellschaft, Region Österreich-Schweiz**
+
+1. Ziel dieser Sektion ist die Förderung biometrischer Methoden am Ort der Sektion unter besonderer Berücksichtigung von Problemen der Anwendung.
+2. Mitglied der Wiener Sektion ist, wer Mitglied der Internationalen Biometrischen Gesellschaft ist und schriftlich seinen Beitritt zur örtlichen Sektion erklärt.
+3. Für die Grundrechte und -pflichten der Mitglieder und des Vorstandes der Sektion sind die Satzungen und Reglemente der Internationalen Biometrischen Gesellschaft sowie die By-Laws der Region Österreich-Schweiz verbindlich.
+4. Der Vorstand der Sektion besteht aus dem Präsidenten, dem Sekretär und dem Kassier. Der Präsident der Sektion ist Mitglied des Beirates der österreichisch-schweizerischen Region.
+5. Der Kassier der Sektion erstellt eine Jahresabschlußrechnung zu Handen des Regionsvorstandes.
+6. Die Wahl des Vorstandes erfolgt anläßlich der mindestens einmal in zwei Jahren stattfindenden Mitgliederversammlung. Das relative Mehr der in der Mitgliederversammlung Anwesenden entscheidet. Die Amtsperiode des Präsidenten der Sektion sollte 2 Jahre nicht überschreiten.
+7. Mindestens einmal in zwei Jahren berichtet der Vorstand - anläßlich einer Mitgliederversammlung der Region - über seine Tätigkeit.
+8. Die Sektion hat keine finanziellen Ansprüche oder Verpflichtungen an die Region.
+ 
+
+Anmerkung: Da die Wiener Sektion keine Mitgliedsbeiträge einhebt und über keine geregelte finanzielle Basis verfügt, wurde die Funktion des Kassiers aufgelöst.

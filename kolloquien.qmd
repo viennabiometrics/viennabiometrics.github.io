@@ -1,0 +1,1310 @@
+---
+title: "Kolloquien"
+format: 
+  html:
+    toc: true
+    toc-depth: 1
+    toc-title: "Years"
+resources: 
+  - "abstracts/*.pdf"
+---
+
+# 2025
+
+### 19. Februar
+- **Tim Müller und Hannes Buchner (Staburo GmbH Munich)**
+  *Permutation-based Multiple Testing-Controlled Variable Selection Using Random Forests*
+
+  [Abstract](abstracts/20250219_WBS_Mueller_Buchner.pdf)
+
+### 12. Februar
+- **Manuel Müller (Statistical Laboratory, University of Cambridge)**
+  *Isotonic Subgroup Selection*
+  
+  [Abstract](abstracts/20250212_WBS_Mueller.pdf)
+
+### 21. Jänner
+**Two online talks via Webex**  
+- **Dong Xi (Gilead Sciences)**  
+  *When convention meets practicality: Combined Analysis Testing under the Two-Trials Convention*  
+- **Marc Vandemeulebroecke (UCB Farchim SA)**  
+  *Confirmatory testing of secondary hypotheses on combined data from multiple trials – case studies and reflections*
+
+[Abstract](abstracts/20250121_ Dong_Xi_and_Marc_Vandemeulebroecke.pdf)
+
+### 15. Jänner
+- **Michael Kammer (Medical University Vienna)**  
+  *An Overview of R Software Tools to Support the Generation of Synthetic Data from Real-World Data*  
+  [Abstract](abstracts/20250115_Kammer.pdf)
+  
+  [Slides](abstracts/WBS_Kammer_20250108.pdf)
+
+# 2024
+
+### 20. November
+- **Frank Bretz (Novartis Pharma AG, Basel, Switzerland)**  
+  *Estimands: The new bedrock of drug development?*  
+  [Abstract](abstracts/20241120_WBS_Bretz.pdf)
+
+### 6. November
+- **Michaela Maria Freitag (Institut für Biometrie und klinische Epidemiologie, Charité - Universitätsmedizin Berlin)**  
+  *Increased Efficiency of frequentist basket trials through adaptive clustering methods*  
+  [Abstract](abstracts/20241106_WBS_Freitag.pdf)
+
+### 21. Oktober
+- **Ricciardo De Bin (Department of Mathematics, University of Oslo, Norway)**  
+  *Boosting First-Hitting-Time Models for Time-To-Event Analysis*  
+  [Abstract](abstracts/20241021_DeBin.pdf)
+
+### 10. Juni
+- **Kelly Van Lacker (Department of Applied Mathematics, Computer Science and Statistics, Ghent University, Niederlande)**  
+  *Optimizing Randomized Trial Efficiency: Innovative Approaches to Covariate Adjustment*  
+  [Abstract](abstracts/20240610_WBS_VanLacker.pdf)
+
+### 15. Mai
+- **David Robertson (MRC Biostatistics Unit, University of Cambridge, UK)**  
+  *Response-Adaptive Randomization in Clinical Trials: From Myths to Practical Considerations*  
+  [Abstract](abstracts/20240515_WBS_Robertson.pdf)
+
+### 17. April
+- **Daniele Giardiello (University of Milan-Bicocca, Italy)**  
+  *Prediction of Contralateral Breast Cancer - Statistical Aspects and Performance Assessment*  
+  [Abstract](abstracts/20240417_Giardiello.pdf)
+
+### 21. Februar
+- **Quynh Nguyen (Paul Ehrlich Institut, Germany)**  
+  *The Use of Complex Clinical Trials - A Regulatory Review*  
+  [Abstract](abstracts/20240221_Nguyen.pdf)
+
+
+# 2023
+
+### 6. December
+- **Alexander Bauer (Takeda, Austria)**  
+  *Assessment of Pharmacokinetic Linearity after Repeated Drug Administration*  
+  [Abstract](abstracts/20231206_Bauer.pdf)
+
+### 20. October
+- **Stephen Senn (University of Sheffield, UK)**  
+  *Randomisation versus Random Sampling. Clinical Trials and the Prepresentation Fallacy*  
+  [Abstract](abstracts/20231020_Senn.pdf)
+
+### 4. October
+- **Mariana Nold (University of Jena, Germany)**  
+  *On the improvement of predictive modeling using posterior predictive checking and Bayesian stackting - An example of modeling gender inequality in reading unsing Pisa 2018*  
+  [Abstract](abstracts/20231004_Nold.pdf)
+
+### 17. May
+- **Nadja Klein (TU Dortmund, Germany)**  
+  *Advances in Distributional Regression*  
+  [Abstract](abstracts/20230517_Klein.pdf)
+
+### 10. May
+- **David Azriel (Faculty of Data and Decision Sciences, the Technion, Haifa, Israel)**  
+  *Optimal Minimax Random Designs for Weighted Least Squares Estimators*  
+  [Abstract](abstracts/20230510_Azriel.pdf)
+
+### 22. March
+- **Irantzu Barrio (University of the Basque Country, Spain)**  
+  *A new general and multivariable approach to categorize predictor variables. Application in COPD patients*  
+  [Abstract](abstracts/20230322_Barrio.pdf)
+
+### 15. Februar
+- **Gregor Buch (Johannes Gutenberg University Mainz, Germany)**  
+  *Overview, Evaluation, and development of group variable selection methoda for knowledge integration*  
+  [Abstract](abstracts/20230215_Buch.pdf)
+
+
+# 2022
+
+### 3. November
+- **Bhramar Mukherjee (University of Michigan)**  
+  *Using electronic health records for scientific research: Promises and perils*  
+  [Abstract](abstracts/20221103_Mukherjee.pdf)
+
+### 12. Oktober
+- **Theresa Ullmann (Ludwig Maximilian University of Munich)**  
+  *Over-optimism in the evaluation of clustering results and novel cluster algorithms*  
+  [Abstract](abstracts/20221012_Ullmann.pdf)
+
+### 5. Oktober
+- **Lukas Baumann (University Hospital Heidelberg)**  
+  *Basket trial designs based on power priors*  
+  [Abstract](abstracts/20221005_Baumann.pdf)
+
+### 26. Juli
+- **Aliaksander Hubin (University of Oslo)**  
+  *Variational Bayes for inference on model and parameter uncertainty in Bayesian neural networks*  
+  [Abstract](abstracts/20220726_Hubin.pdf)
+
+### 22. Juni
+- **Frank Bretz (Novartis Pharma AG)**  
+  *Symmetric graphs for equally weighted tests, with application to the Hochberg procedure*  
+  [Abstract](abstracts/20220622_Bretz.pdf)
+
+### 8. Juni
+- **Leonhard Held (University of Zurich)**  
+  *A statistical framework for replicability*  
+  [Abstract](abstracts/20220608_Held.pdf)
+
+### 11. Mai
+- **Damjan Manevski (University of Ljubljana)**  
+  *Life years difference compared to the general population*  
+  [Abstract](abstracts/20220511_Manevski.pdf)
+
+### 27. April
+- **Wencan Zhu (Université Paris-Saclay and Sanofi R&D)**  
+  *Biomarker identification with penalized regression in the presence of high-dimensional data*  
+  [Abstract](abstracts/20220427_Zhu.pdf)
+
+
+# 2021
+
+### 15. Dezember
+- **Helmut Schuetz (BEBAC Vienna)**  
+  *Bioequivalence: An old area with some uncharted territories*  
+  [Abstract](abstracts/20211215_Schuetz.pdf)
+
+### 17. November
+- **Lorena Hafermann (Charité – Universitätsmedizin Berlin)**  
+  *Statistical model building: Background 'knowledge' based on inapropriate preselection causes misspecification*  
+  [Abstract](abstracts/20211117_Hafermann.pdf)
+
+### 13. Oktober
+- **Willi Sauerbrei und Edwin Kipruto (University of Freiburg)**  
+  *Multivariable regression moedlling - issues in selection of variables and functional forms of continuous variables*  
+  [Abstract](abstracts/20211013_sauerbrei_kipruto.pdf)
+
+### 9. Juni
+- **Kim M. Lee (King`s College)**  
+  *Platform Trials: The potentials and the caveats of adding arms*  
+  [Abstract](abstracts/20210609_Lee.pdf)
+
+### 12. Mai
+- **Gaurav Sharma (Takeda)**  
+  *Statistical approaches in an adaptive clinical trial for methamphetamine use disorder*  
+  [Abstract](abstracts/20210512_Sharma.pdf)
+
+### 14. April
+- **Giovanni Smania (Pharmetheus AB)**  
+  *Conditional distribution modeling as an alternative method for covariates simulation: Comparison with joint mulitvariate normal and bootstrap techniques*  
+  [Abstract](abstracts/20210414_Smania.pdf)
+
+### 10. März
+- **Matthew Sperrin (The University of Manchester)**  
+  *When is causal thinking needed for prediction?*  
+  [Abstract](abstracts/20210310_Sperrin.pdf)
+
+
+# 2020
+
+### 9. Dezember
+- **Kaspar Rufibach (F. Hoffmann - La Roche)**  
+  *Use of multistate models to improve decision-making in cinical trials*  
+  [Abstract](abstracts/20201209_rufibach.pdf)
+
+### 11. November
+- **Anne-Laure Boulesteix (Ludwig-Maximilians-Universität München)**  
+  *Neutral comparison studies: Illustration through a benchmark study on omics based prognostic modelling and discussion*  
+  [Abstract](abstracts/20201111_boulesteix.pdf)
+
+### 28. Oktober
+- **Alejandra Avalos Pacheco (Harvard Medical School)**  
+  *Leveraging external data in Bayesian adaptive platform designs*  
+  [Abstract](abstracts/20201028_avalos_pacheco.pdf)
+
+### 14. Oktober
+- **Martin Wolfsegger (Baxalta Innovations GmbH, a Takeda company)**  
+  *Some possibly useful thoughts on bioequivalence assessments in the case of sparse sampling*  
+  [Abstract](abstracts/20201014_wolfsegger.pdf)
+
+### 30. September
+- **Marta Bofill Roig (Universitat Politècnica de Catalunya)**  
+  *A class of two-sample binary and survival satistics with application to immunotherapy trial*  
+  [Abstract](abstracts/20200930_bofill_roig.pdf)
+
+### 1. Juli
+- **Annette Kopp-Schneider (German Cancer Research Center (DKFZ))**  
+  *The effect of prior information of frequentist properties of Bayesian phase II single-arm clinical trials*  
+  [Abstract](abstracts/20200701_kopp_schneider.pdf)
+
+### 13. Mai
+- **Robin Ristl (Medical University of Vienna)**  
+  *Delayed treatment effects, treatment switching and heterogeneous patient pooulations: How to design and analyse RCTs in oncology*  
+  [Abstract](abstracts/20200513_Ristl.pdf)
+
+### 19. Februar
+- **Aris Perperoglou (AstraZeneca)**  
+  *A (rough) guide to using splines in multivariable regression*  
+  [Abstract](abstracts/20200219_Perperoglou.pdf)
+
+### 17. Februar
+- **Yosef Rinott (The Hebrew University of Jerusalem)**  
+  *Joint variables selection for several regressions*  
+  [Abstract](abstracts/20200217_Rinott.pdf)
+
+
+# 2019
+
+### 11. Dezember
+- **David Garcia (Medical University of Vienna)**  
+  *Understanding human behavior in the digital society: The case of collective emotions*  
+  [Abstract](abstracts/20191211_garcia.pdf)
+
+### 23. Oktober
+- **Willi Sauerbrei (University of Freiburg)**  
+  *Complete, transparent and unbiased reporting as a requisite to improve research in the health sciences*  
+  [Abstract](abstracts/20191023_sauerbrei.pdf)
+
+### 18. Oktober
+- **Satoshi Morita (Kyoto University)**  
+  *Bayesian Population Finding with Biomarkers in a Randomized Clinical Trial*  
+  [Abstract](abstracts/20191018_SATOSHI MORITA.pdf)
+
+### 25. September
+- **Kim Luijken (Leiden University Medical Centre)**  
+  *Measurement matters: How differences in measurement induce nontransportability of clinical prediction models*  
+  [Abstract](abstracts/20190925_Luijken.pdf)
+
+### 9. Juli
+- **Menggang Yu (University of Wisconsin-Madison)**  
+  *Cox regression with nonignorable survival-time-dependent missing covariate values*  
+- **Jun Shao (University of Wisconsin-Madison)**  
+  *Robust tests in survival analysis under covariate-adaptive randomization*
+
+[Abstract](abstracts/20190709_yu_and_shao.pdf)
+
+### 27. Juni
+- **Hiba Nassar (Lund University)**  
+  *Empirically driven orthonormal bases for functional data analysis*  
+  [Abstract](abstracts/20190627_nassar.pdf)
+
+- **Kory Johnson (George Mason University)**  
+  *Adaptive, Distribution-Free Prediction Intervals for Deep Neural Networks*  
+  [Abstract](abstracts/20190627_johnson.pdf)
+
+### 19. Juni
+- **William F. Rosenberger (Universität Wien)**  
+  *Randomization-Based Inference Following Randomized Clinical Trials*  
+  [Abstract](abstracts/20190619_rosenberger.pdf)
+
+### 17. Juni
+- **Munya Dimairo (University of Sheffield)**  
+  *Introducing the Adaptive designs CONSORT Extension (ACE) Statement to improve reporting of randomised trials that use an adaptive design*  
+  [Abstract](abstracts/20190617_dimairo.pdf)
+
+### 22. Mai
+- **Marco Colombo (University of Edinburgh)**  
+  *Discovering biomarkers of progression of renal disase in type 1 diabetes*  
+  [Abstract](abstracts/20190522_colombo.pdf)
+
+### 21. Mai
+- **Sebastian Doehler (Hochschule Darmstadt)**  
+  *Controlling the false discovery rate for discrete test stastics: Some results and computational tools*  
+  [Abstract](abstracts/20190521_Doehler.pdf)
+
+### 13. Mai
+- **Cyrus R. Mehta (Cytel Inc.)**  
+  *Adaptive Multi-arm Multi-stage Group Sequential Designs*  
+  [Abstract](abstracts/20190513_mehta.pdf)
+
+### 26. März
+- **Tom Parke (Berry Consultants)**  
+  *Platform Trials: Impossibly complex or the future of clinical trials?*  
+  [Abstract](abstracts/20190326_Parke.pdf)
+  
+  [Slides](abstracts/20190326_Parke_Platform%20trials%20V2.pdf)
+
+### 14. Jänner
+- **Malgorzata Bogdan (University of Wroclaw)**  
+  *On the selection of genetic biomarkers for clinical trials*  
+  [Abstract](abstracts/20190114_Bogdan.pdf)
+
+
+# 2018
+
+### 11. Dezember
+- **Barbara Osimani (Polytechnic University of the Marche via Tronto)**  
+  *E-Synthesis: A System for evidence amalgamation in pharmacovigilance*  
+  [Abstract](abstracts/20181211_Osimani.pdf)
+
+### 6. Dezember
+- **Marianne Huebner (Michigan State University)**  
+  *A systematic approach to initial data analysis*  
+  [Abstract](abstracts/20181206_Huebner.pdf)
+
+### 3. Dezember
+- **Rino Bellocco (University of Milano-Bicocca and Karolinska Institutet)**  
+  *Directed Acyclic Graphs: A Useful Modern Tool in Epidemiology (SLIDES)*  
+  [Abstract](abstracts/20181203_Bellocco.pdf)
+  
+  [Slides](RinoBellocco2018.pdf)
+
+### 8. Oktober
+- **Jack Bowden (University of Bristol)**  
+  *Recent Advances in Two-Sample Summary Data Mendelian Randomization (SLIDES)*  
+  [Abstract](abstracts/20181008_Bowden.pdf)
+  
+  [Slides](JackVienna2018.pdf)
+
+### 5. Juli
+- **Arsenio Nhacolo (University of Bremen)**  
+  *Bias and Precision in Early Phase Adaptive Studies and its Consequences for the Decisions About Conducting and Designing Confirmatory Studies*  
+  [Abstract](abstracts/20180705_Nhacolo.pdf)
+
+### 18. Juni
+- **Peter Filzmoser (CSTAT, TU Wien)**  
+  *Robust Linear and Logistic Regression in High Dimension (SLIDES)*  
+  [Abstract](abstracts/20180618_Filzmoser.pdf)
+  
+  [Slides](robust_enetreg.pdf)
+
+### 14. Mai
+- **Peter Steiner (University of Wisconsin)**  
+  *The Mechanics of Omitted Variable Bias: Bias Amplification and Cancellation of Offsetting Biases*  
+  [Abstract](abstracts/20180514_Steiner.pdf)
+
+### 8. Mai
+- **Dominic Edelmann (DKFZ, Heidelberg)**  
+  *The Distance Correlation-Coefficient for Right-censored Survival Data*  
+  [Abstract](abstracts/20180508_Edelmann.pdf)
+
+### 19. April
+- **Peter Klimek (Meduni Wien)**  
+  *A Network Medicine Approach to Understand and Predict Complex Disease Phenotypes*  
+  [Abstract](abstracts/20180419_Klimek.pdf)
+
+### 18. April
+- **Alexander Ploner (Karolinska Institutet, Stockholm)**  
+  *Register Research in the Molecular Age: Studies on Cervical Carcinoma in Sweden*  
+  [Abstract](abstracts/20180418_PlonerAlexander.pdf)
+
+### 16. April
+- **Els Genbrugge (EORTC, Brüssel)**  
+  *Bayesian Adaptive Randomization*  
+  [Abstract](abstracts/20180416_Genbrugge.pdf)
+
+### 9. April
+- **Werner Müller (Universität Linz)**  
+  *A Design Criterion for Symmetric Model Discrimination Based on Nominal Confidence Sets (SLIDES)*  
+  [Abstract](abstracts/20180409_Mueller.pdf)
+  
+  [Slides](vienna_mueller.pdf)
+
+### 22. März
+- **Daria Kim (Max-Planck Institut, München)**  
+  *Access to Clinical Trial Data: Is the Paradigm Shifting?*  
+  [Abstract](abstracts/20180322_Kim.pdf)
+
+### 19. März
+- **Georg Langs (Meduni Wien)**  
+  *Identifying and Using Structure in Large-sclae Routine Medical Imaging Data*  
+  [Abstract](abstracts/20180319_Langs.pdf)
+
+### 15. März
+- **Yuxi Tian (University of California)**  
+  *Comparative Safety and Effectiveness of Osteoporosis Drugs: A Multi-Center Observational Cohort Study Conducted Through the OHDSI Network*  
+  [Abstract](abstracts/20180315_Tian.pdf)
+
+### 12. März
+- **Hans-Peter Piepho (Gastprof. BOKU)**  
+  *Arm-based Network Meta-analysis (SLIDES)*  
+  [Abstract](abstracts/20180312_Piepho.pdf)
+  
+  [Slides](Folien_Piepho_BOKU2018.pdf)
+
+### 22. Februar
+- **Gerhard Svolba (SAS Österreich)**  
+  *Vortrag1 - Data Science in Action – 10 Dinge, die Advanced Analytics in Data Science für Ihr Unternehmen tun kann (SLIDES)*  
+  *Vortrag 2 – Aktuelle Anforderungen an eine analytische Plattform - Offenheit bzgl. der Benutzerschnittstellen und methodische Vielfalt (SLIDES)*  
+  [Abstract](abstracts/20180222_Svolba.pdf)
+  
+  [Slides 1](SvolbaSAS_WBS2018_ApplyingDataScience.pdf)
+  
+  [Slides 2](Svolba_WBS2018_DifferentUserRoles_withSASViya.pdf)
+
+
+# 2017
+
+### 30. November
+- **Valentin Rousson (University Hospital Lausanne)**  
+  *An Introduction to Mendelian Randomization (SLIDES)*  
+  [Abstract](abstracts/20171130_Rousson.pdf)
+  
+  [Slides](abstracts/20171130Rousson_talk.pdf)
+
+### 16. November
+- **Matthias Brückner (Lancaster University)**  
+  *Instrumental Variable Estimation in Semi-parametric Additive Hazard Models*  
+  [Abstract](abstracts/20171116_Brueckner.pdf)
+
+### 16. Oktober
+- **Aliaksandr Hubin (University of Oslo)**  
+  *Deep Non-linear Regression Models in a Bayesian Framework*  
+  [Abstract](abstracts/20171016_Hubin.pdf)
+
+### 28. September
+- **Andrew Vickers (Memorial Sloan-Kettering Cancer Center)**  
+  *How Do we Know Whether a Predictive Model is of Clinical Value? …*  
+  [Abstract](abstracts/20170928_VICKERS.pdf)
+
+### 7. September
+- **Chris Jennison (University of Bath)**  
+  *Data Combination in Seamless Phase II/III Clinical Trial Designs (SLIDES)*  
+  [Abstract](abstracts/20170907_JennisonHampson.pdf)
+  
+  [Slides](abstracts/vienna_2017.pdf)
+
+### 22. Mai
+- **Sarah Zohar (INSERM, Paris)**  
+  *Bayesian Treatment Comparison Using Parametric Mixture Priors Computed from Elicited Histograms*  
+  [Abstract](abstracts/20170522_Zohar.pdf)
+
+### 20. April
+- **Marius Thomas (Novartis)**  
+  *Exploratory Subgroup Analyses in Clinical Trials*  
+  [Abstract](abstracts/20170420_Thomas.pdf)
+
+### 20. März
+- **R.A. Bailey (University of St. Andrews)**  
+  *Hasse Diagrams as an Aid to Understanding a Family of Models in Experiments on Biodiversity*  
+  [Abstract](abstracts/20170320_Bailey.pdf)
+
+### 13. März
+- **Rok Blagus (University of Ljubljana)**  
+  *Cumulative Sum Processes for Goodness-of-Fit Testing*  
+  [Abstract](abstracts/20170313_Blagus.pdf)
+
+### 21. Februar
+- **Ioannis Kosmidis (University College London)**  
+  *Reduced‐Bias Inference for Regression Models with Tractable and Intractable Likelihoods*  
+  [Abstract](abstracts/20170221_KOSMIDIS.pdf)
+
+### 20. Februar
+- **Mathias Schmid (Rheinische Friedrich‐Wilhelms‐Universität Bonn)**  
+  *Modeling Discrete Time-to-Event Data*  
+  [Abstract](abstracts/20170220_SCHMID.pdf)
+
+### 14. Februar
+- **Thomas Jaki (Lancaster University)**  
+  *Multi-Objective Dose-Finding*  
+  [Abstract](abstracts/20170214_Jaki.pdf)
+
+### 26. Jänner
+- **Karel G.M. Moons, Geert-Jan Geersing (UMC Utrecht)**  
+  *Clinical Prediction Models: Don't Develop Them!  
+  Managing Venous Thrombosis in Primary Care Medicine*  
+  [Abstract](abstracts/20170126_MOONS_GEERSING.pdf)
+  
+  [Slides Moons](abstracts/Moons170126.pdf)
+  
+  [Slides Geersing](abstracts/Geersing170126.pdf)
+
+### 17. Jänner
+- **Efstathia Bura (Washington DC)**  
+  *Sufficient Reductions in Regression and Classification (SLIDES)*  
+  [Abstract](abstracts/20170117_BURA.pdf)
+  
+  [Slides](abstracts/https://viennabiometrics.github.io/Bura_MUV2017.pdf)
+
+### 12. Jänner
+- **Helene Jacqmin-Gadda (INSERM, France)**  
+  *Target Estimands in a Longitudinal Study with Follow-up Truncated by Death and Dropout*  
+  [Abstract](abstracts/20170112_JACQMINGADDA.pdf)
+
+### 9. Jänner
+- **Ludwig A. Hothorn (Leibniz Universität Hannover)**  
+  *Ein universeller Trendtest? Welche Kriterien sollte ein universeller Trendtest erfüllen? (SLIDES)*  
+  [Abstract](abstracts/20170109_LUDWIG_HOTHORN.pdf)
+  
+  [Slides](abstracts/Wien2017LH.pdf)
+
+
+# 2016
+
+### 16. Dezember
+- **Stefan Michiels (Université Paris-Saclay)**  
+  *Calculating Expected Survival from High-Dimensional Cox Models …*  
+  [Abstract](abstracts/20161204_STEFAN_MICHIELS.pdf)
+
+### 18. November
+- **Tim Friede (University Medical Center Göttingen)**  
+  *Some Statistical Aspects of Clinical Trials for Personalized Medicine*  
+  [Abstract](abstracts/20161118_Friede.pdf)
+
+### 14. November
+- **Silke Jörgens (ICON, Köln)**  
+  *Confirmatory Adaptive Group Sequential Trials: Treatment Arm and Subpopulation Selection Based on Surrogate Endpoints*  
+  [Abstract](abstracts/WBS_Joergens.pdf)
+  
+  [Slides](abstracts/SurrogateSelection_SilkeJoergens_14Nov2016.pdf)
+
+### 10. Oktober
+- **Eva Schernhammer (Med. Universität Wien)**  
+  *Angewandte Epidemiologie in der Prävention von Chronischen Erkrankungen: die Nurses’ Health Studie*  
+  [Abstract](abstracts/20161010_Schernhammer.pdf)
+
+### 22. September
+- **Malgorzata Bogdan (University of Wroclaw)**  
+  *Identifying Genetic Factors Influencing Important Patient Characteristics*  
+  [Abstract](abstracts/20160922_Bogdan.pdf)
+
+### 1. August
+- **Mariana Nold (Universitätsklinikum Jena)**  
+  *A Comparison of Two Approaches for Meta-Analysis of Individual Patient Data*  
+  [Abstract](abstracts/20160801_Nold.pdf)
+
+### 19. Juli
+- **Livio Finos (University of Padua)**  
+  *A Graphical Approach to Resampling Based Multiple Testing Procedures*  
+  [Abstract](abstracts/20160719_Finos.pdf)
+
+### 20. Mai
+- **Lisa Hampson (Lancaster University)**  
+  *Optimal Group Sequential Tests for Delayed Responses with Non-Binding Futilitiy Boundaries*  
+- **Ekkehard Glimm (Novartis)**  
+  *Some Updates on Weighted Parametric Tests*
+
+[Abstract](abstracts/20160520_HampsonGlimm.pdf)
+
+### 19. Mai
+- **Daniel Commenges (University of Bordeaux)**  
+  *The Stochastic System Approach to Causality*  
+  [Abstract](abstracts/20160519_Commenges.pdf)
+
+### 14. April
+- **WBS Festsymposium**  
+  *25 Jahre Klinische Biometrie*  
+  [Abstract](abstracts/20160414_25JahreKlinischeBiometrie.pdf)
+
+### 4. April
+- **Tyler VanderWeele (Havard School of Public Health)**  
+  *Workshop with Tyler VanderWeele … "A unification of mediation and interaction …"*  
+  [Abstract](abstracts/20160404_WorkshopVanderWeele.pdf)
+
+### 18. Jänner
+- **Ulrike Schneider (TU Wien)**  
+  *Statistical Inference after Lasso Estimation*  
+  [Abstract](abstracts/20160118_Schneider.pdf)
+
+### 13. Jänner
+- **Andreas Futschik (Johannes Kepler Universität Linz)**  
+  *On the inadmissibility of common population genetic estimates …*  
+  [Abstract](abstracts/20160113_Futschik.pdf)
+
+
+# 2015
+
+### 12. November
+- **Ludwig Hothorn (Leibniz University Hannover, Germany)**  
+  *Simultaneous inference using multiple marginal models in R (MMM)*  
+  [Abstract](abstracts/20151112_Hothorn.pdf)
+
+### 17. September
+- **Florian Klinglmüller (University of Padua, Department of Statistics)**  
+  *Permutation Tests for Adaptive Clinical Trial Designs*  
+  [Abstract](abstracts/20150917_Klinglmueller.pdf)
+
+### 9. Juni
+- **Xavier Paoletti (Biostatistics and epidemiology / INSERM U1018)**  
+  *Dose finding on repeated measurements in oncology phase I clinical trials*  
+  [Abstract](abstracts/20150611_Paoletti.pdf)
+
+### 4. Mai
+- **Arne Bathke (Universität Salzburg)**  
+  *Trying to Make Sense of Multivariate Data Samples …*  
+  [Abstract](abstracts/20150504_Bathke.pdf)
+
+### 27. April
+- **Søren Möller (University of Southern Denmark, Odense)**  
+  *Methods for calculating heritability of diseases estimated from large twin studies*  
+  [Abstract](abstracts/20150427_Moeller.pdf)
+
+### 17. März
+- **Toshifumi Sugitani (Medical University of Vienna)**  
+  *Flexible alpha allocation strategies for confirmatory adaptive enrichment clinical trials …*  
+  [Abstract](abstracts/20150317_Sugitani.pdf)
+
+
+# 2014
+
+### 17. November, 15:30
+- **Ludwig Hothorn**  
+  *Quality ranking or ... comparisons against the grand mean*  
+  [Abstract](abstracts/20141117_Hothorn.pdf)
+  
+  [Slides](abstracts/2014_11_Hothorn.pdf)
+
+### 29. Oktober, 16:30
+- **Bernhard Klingenberg**  
+  *A new and improved confidence interval for the Mantel-Haenszel risk differences*  
+  [Abstract](abstracts/20141029_Klingenberg.pdf)
+
+### 6. Oktober, 16:30
+- **Geraldine Rauch**  
+  *Challenges of Composite Endpoints - New methods to overcome planning, analysis and interpretation problems*  
+  [Abstract](abstracts/20141006_Rauch.pdf)
+
+### 18. Juni, 11:00
+- **Alex Dmitrienko**  
+  *Mixture-based multiple testing procedures: The good, the bad and the ugly*
+
+### 28. April, 10:00
+- **Holger Dette**  
+  *Optimal design for dose finding studies with an active control*  
+  [Abstract](abstracts/20140416_Dette.pdf)
+  
+  [Slides](abstracts/20140428_Dette_Slides.pdf)
+
+### 25. März, 16:00
+- **Zoran Antonijevic**  
+  *Optimizing Clinical Outcomes Using Simulations In Modern Drug Development*  
+  [Abstract](abstracts/20140325_ANTONIJEVIC.pdf)
+  
+  [Slides](abstracts/2014_Program_Portfolio%20Optimization%20MUW%2025Mar2014.pdf)
+
+### 12. Februar, 14:00
+- **Tanja Stamm**  
+  *PatientInnenperspektive und Biomarker - wie hängen diese zusammen?*  
+  [Abstract](abstracts/20140212_Stamm.pdf)
+
+
+# 2013
+
+### 16. Dezember, 16:30
+- **Karl Schlag**  
+  *Exact Nonparametric Binary Choice and Ordinal Regression Analysis*
+[Abstract](abstracts/20131216_Schlag.pdf)
+
+### 5. Dezember, 16:30
+- **Alexandra Posekany**  
+  *Improving robustness and reliability of bioinformatical inference*  
+  [Abstract](abstracts/20131205_Posekany.pdf)
+
+### 3. Dezember, 14:00
+- **Frank Konietschke**  
+  *Nonparametric multiple comparison procedures under heteroscedasticity*  
+  [Abstract](abstracts/20131203_Konietschke.pdf)
+  
+  [Slides](abstracts/201312_Konietschke_Slides.pdf)
+
+### 23. Oktober, 15:00
+- **Open Access to Clinical Trial Data** (Panel Discussion)
+[Slides](abstracts/2013_MUW_Pharmig_open_data_web.pdf)
+
+### 21. Oktober, 16:15
+- **Ludwig Hothorn**  
+  *User-defined contrasts within multiple contrast tests - case studies*  
+  [Slides](abstracts/2013_HothornVienna_Slides.pdf)
+
+### 26. September, 16:15
+- **Gregory Nuel**  
+  *Simulation of phenotypes under H1 in Genome Wide Association studies …*  
+  [Abstract](abstracts/20130926_NUEL.pdf)
+
+### 17. Juni, 16:30
+- **Gernot Wassmer**  
+  *Enrichment Designs: Methoden und Anwendungen …*  
+  [Abstract](abstracts/20130617_Wassmer.pdf)
+  
+  [Slides](abstracts/20130617_Wassmer_Population%20Enrichment%20Designs_Slides.pdf)
+
+### 6. Juni, 16:00
+- **Dominic Magirr**  
+  *Flexible Sequential Designs for Multi-Arm Clinical Trials*  
+  [Abstract](abstracts/20130606_Magirr.pdf)
+  
+  [Slides](abstracts/20130606_Magirr_slides.pdf)
+
+### 13. Mai, 16:30
+- **Gerhard Hommel**  
+  *Multiple test procedures using ordered p-values*  
+  [Abstract](abstracts/20130513_Hommel.pdf)
+  
+  [Slides](abstracts/20130513_Hommel_Slides.pdf)
+
+### 8. Mai, 16:30
+- **Caroline Uhler**  
+  *Chromosome Packing in Cell Nucleus*  
+  [Abstract](abstracts/20130508_Uhler.pdf)
+  
+  [Slides](abstracts/20130508_Uhler_Slides.pdf)
+
+### 30. Jänner, 14:30
+- **Andreas Ziegler**  
+  *Personalized Medicine using DNA Biomarkers*  
+  [Abstract](abstracts/20130130_Ziegler.pdf)
+  
+  [Slides](abstracts/20130130_Ziegler_Slides.pdf)
+
+### 24. Jänner, 16:30
+- **Frank Miller**  
+  *Sample size Re-estimation and Bias*  
+  [Abstract](abstracts/20130124_Miller.pdf)
+  
+  [Slides](abstracts/20130124_SSREandBias_FMiller20130124Wien_slides.pdf)
+
+### 21. Jänner, 11:00
+- **Cécile Proust-Lima**  
+  *Joint modelling of multivariate longitudinal mixed outcomes …*  
+  [Abstract](abstracts/20130121_ProustLima.pdf)
+  
+  [Slides](abstracts/20130121_ProustLima_Vienna_Slides.pdf)
+
+### 17. Jänner, 11:00
+- **David Azriel**  
+  *Adaptive designs to maximize power in clinical trials with multiple treatments*  
+  [Abstract](abstracts/20130117_Azriel.pdf)
+  
+  [Slides](abstracts/20130117_Azriel_slides.pdf)
+
+
+# 2012
+
+### 10. Dezember, 13:00
+- **Ronald Geskus**  
+  *Inverse probability weighted estimators in a competing risks setting…*
+  [Abstract](abstracts/20121210_Geskus.pdf)
+
+### 9. November 2012
+- **Milan Stehlík**  
+  *Cancer risk assessment: Fractals versus Stochastics*  
+  [Abstract](abstracts/20121109_Stehlik.pdf)
+
+### 12. Juli 2012
+- **Malgorzata Bogdan**  
+  *Logic Regression for Localizing Interacting Quantitative Trait Loci*  
+  [Abstract](abstracts/20120712_Bogdan.pdf)
+
+### 21. Mai 2012
+- **Janez Stare**  
+  *A Measure of Explained Variation for Event History Data*  
+  [Abstract](abstracts/20120521_Stare.pdf)
+
+### 10. Mai 2012
+- **Karen Leffondré**  
+  *Comparison of the illness-death model … an application to dementia*  
+  [Abstract](abstracts/20120510_Leffondre.pdf)
+
+### 12. April 2012
+- **Alan Hubbard**  
+  *Semiparametric Variable Importance Estimation … for estimating the relative “importance” of many predictors*  
+  [Abstract](abstracts/20120412_Hubbard.pdf)
+
+### 26. März 2012
+- **Manuela Zucknick**  
+  *Integration of multiple genomic data sources … in Bayesian Regression Models …*  
+  [Abstract](abstracts/20120326_Zucknick.pdf)
+
+### 22. Februar 2012
+- **Jeannette Klimont, Barbara Leitner und Nadine Zielonke**  
+  *Gesundheitsstatistik*
+  
+  [Abstract](abstracts/20120222_Klimont.pdf)
+
+### 17. Jänner 2012
+- **Alain Hauser**  
+  *Causal inference from interventional data*  
+  [Abstract](abstracts/20120117_Hauser.pdf)
+
+
+# 2011
+
+### 18. Oktober 2011, 16:00
+- **Dominic Magir**  
+  *Design and Analysis of Multi‐Arm, Multi‐Stage Clinical Studies*
+  
+  [Abstract](abstracts/20111018_Magir.pdf)
+
+### 18. Oktober 2011, 11:00
+- **Dimitris Rizopoulos**  
+  *Joint Models for Longitudinal and Event Time Data, and Dynamic Predictions*  
+  
+  [Abstract](abstracts/20111017_Rizopoulos.pdf)
+
+### 7. Oktober 2011
+- **Markus Bauer**  
+  *Computational challenges in next-generation DNA sequencing*
+  
+  [Abstract](abstracts/20111007_Bauer.pdf)
+
+### 23. Mai 2011
+- **Willi Sauerbrei**  
+  *Towards stratified medicine – … estimate a treatment effect function for a continuous covariate*
+  
+  [Abstract](abstracts/20110523_Sauerbrei.pdf)
+
+### 5. Mai 2011
+- **Martin Wolfsegger**  
+  *Assessing Systemic Drug Exposure …*
+  
+  [Abstract](abstracts/20110505_Wolfsegger.pdf)
+
+### 19. April 2011
+- **Frank Bretz**  
+  *Graphical approaches to multiple test procedures, On the efficiency of two-stage adaptive designs*  
+  
+  [Abstract](abstracts/20110419_Bretz.pdf)
+
+### 31. März 2011
+- **Patrick Royston**  
+  *A new strategy for meta-analysis of continuous covariates …*  
+  
+  [Abstract](abstracts/20110331_Royston.pdf)
+
+### 18. Jänner 2011
+- **Jenö Reiczigel**  
+  *Exact or Approximate Approach to Prevalence Estimation from Imperfect Data?*  
+  
+  [Abstract](abstracts/20110118_Reiczigel.pdf)
+
+
+# 2010
+
+### 2. Dezember 2010
+- **Thomas Hielscher**  
+  *Cox PH penalized regression models in high-dimensional data …*
+  
+  [Abstract](abstracts/20101202_Hielscher.pdf)
+
+### 8. September 2010
+- **Terry Therneau**  
+  *Practical Mixed-Effects Survival Models*  
+  [Abstract](abstracts/20100908_Therneau.pdf)
+
+### 29. Juni 2010
+- **Michal Abrahamowicz**  
+  *Flexible joint modelling of cumulative and non-linear effects …*
+
+  [Abstract](abstracts/20100629_Abrahamowicz.pdf)
+
+### 22. Juni 2010
+- **Bernhard Klingenberg**  
+  *Simultaneous confidence bounds in multiple comparisons to control (Foto)*  
+  [Abstract](abstracts/20100622_Klingenberg.pdf)
+
+### 21. Juni 2010
+- **Helmut Finner**  
+  *On the false discovery rate and control of expected number of false rejections*  
+  [Abstract](abstracts/20100621_Finner.pdf)
+
+### 7. Juni 2010
+- **Linda Beale**  
+  *The UK Small Area Health Statistics Unit: approaches to spatial epidemiology*
+
+  [Abstract](abstracts/20100607_Beale.pdf)
+
+### 28. Mai 2010
+- **Catherine Legrand**  
+  *Generalized conditional linear models with time varying coefficients …*
+
+  [Abstract](abstracts/20100528_Legrand.pdf)
+
+### 11. Mai 2010
+- **Sven Ove Samuelsen**  
+  *Case-cohort and Nested case-control studies: differences and similarities*
+
+  [Abstract](abstracts/20100511_Samuelsen.pdf)
+
+### 14. April 2010
+- **Herwig Friedl**  
+  *Schätzung von Dunkelziffern …*
+
+  [Abstract](abstracts/20100414_Friedl.pdf)
+
+
+# 2009
+
+### 12. November 2009
+- **Florian Frommlet**  
+  *Asymptotic optimality of multiple testing and model selection procedures under sparsity*  
+  [Abstract](abstracts/20091112_Frommlet.pdf)
+
+### 8. Oktober 2009
+- **Amel Mahboubi**  
+  *Validation of a new flexible method for modelling …*
+
+  [Abstract](abstracts/20091008_Mahboubi.pdf)
+
+### 31. August 2009
+- **Chihiro Hirotsu**  
+  *Row-wise multiple comparison approach …*
+
+  [Abstract](abstracts/20090831_Hirotsu.pdf)
+
+### 22. Juni 2009
+- **Leonhard Held**  
+  *INLA in action: Bayesian inference without tears?*  
+  [Abstract](abstracts/20090622_Held.pdf)
+
+### 25. Mai 2009
+- **Helga Wagner**  
+  *Stochastic model specification search for state space and dynamic survival models*
+
+  [Abstract](abstracts/20090525_Wagner.pdf)
+
+### 20. Mai 2009
+- **Alex Dmitrienko**  
+  *Multi-stage gatekeeping procedures with clinical trials applications*  
+  [Abstract](abstracts/20090520_Dmitrienko.pdf)
+
+### 18. Mai 2009
+- **William Rosenberger**  
+  *Inference for Randomized Clinical Trials*  
+  [Abstract](abstracts/20090518_Rosenberger.pdf)
+
+### 19. März 2009
+- **Dankmar Böhning**  
+  *Meta-Analysis of Diagnostic Studies by Means of (S)ROC-Modelling …*  
+  [Abstract](abstracts/20090324_Boehning.pdf)
+
+
+# 2008
+
+### 20. Oktober 2008
+- **Zachary Skrivanek**  
+  *A Seamless 2/3 Design Incorporating a Clinical Utility Index*  
+  [Abstract](abstracts/20081020_Skrivanek.pdf)
+
+### 15. Mai 2008
+- **Achim Zeileis**  
+  *A Lego System for Conditional Inference*  
+  [Abstract](abstracts/2008_15_Mai_Zeileis.pdf)
+
+### 14. April 2008
+- **Andreas Futschik**  
+  *Statistical Methods for Quantitative Trait Localization Based on Genome Data*  
+  [Abstract](abstracts/2008_14_April_Futschik.pdf)
+
+### 28. Jänner 2008
+- **Frank Bretz**  
+  *Ordered Multiple Comparisons with the Best and Their Applications to Dose–Response Studies*  
+  [Abstract](abstracts/2008_28_Jan_Bretz.pdf)
+
+### 17. Jänner 2008
+- **Karl Moder**  
+  *A new approach to evaluate interaction in block design*
+
+  [Abstract](abstracts/2008_17_Jan_Moder.pdf)
+
+### 11. Jänner 2008
+- **Lara Lusa**  
+  *Filtering Enhanced Feature Selection …*
+
+  [Abstract](abstracts/2008_11_Jan_Lusa.pdf)
+
+
+# 2007
+
+### 6. Dezember 2007
+- **Bernhard Spangl**  
+  *Estimating Spectral Density Functions Robustly*  
+  [Abstract](abstracts/2007_06_Dez_Spangl.pdf)
+
+### 7. November 2007
+- **Willi Maurer**  
+  *Sources of Multiplicty in Adaptive Designs*
+  [Abstract](abstracts/2007_07_Nov_Maurer.pdf)
+
+### 18. Oktober 2007
+- **Rob Verdooren**  
+  *Der Wilcoxon-Zweistichproben-Test für gruppierte Daten …*
+
+### 11. Oktober 2007
+- **Bernhard Klingenberg**  
+  *Testing dose-response with multivariate ordinal data*  
+  [Abstract](abstracts/2007_11_Oct_Klingenberg.pdf)
+
+### 16. Mai 2007
+- **Marc Vandemeulebroecke**  
+  *A general approach to two-stage tests*  
+  [Abstract](abstracts/2007_16_May_Vandemeulebroecke.pdf)
+
+### 20. März 2007
+- **Gerhard Svolba**  
+  *Data Preparation for Analytics*  
+  [Abstract](abstracts/2007_20_Maerz_Svolba.pdf)
+
+### 13. Februar 2007
+- **Fátima Sánchez-Cabo**  
+  *Statistical aspects and medical applications of “-omics” data integration*  
+  [Abstract](abstracts/2007_13_Feb_Sanchez-Cabo.pdf)
+
+### 23. Jänner 2007
+- **Nigel Stallard and Tim Friede**  
+  *Two short talks*
+  [Abstract](abstracts/2007_23_Jan_Stallard_Friede.pdf)
+
+### 18. Jänner 2007
+- **Dieter Rasch**  
+  *Wie viele Individuen benötigt man zur Schätzung populationsgenetischer Parameter?*
+  [Abstract](abstracts/H851_Vortrag_Rasch_070118.pdf)
+
+### 16. Jänner 2007
+- **Dieter Rasch**  
+  *Inwieweit sind statistische Verfahren anwendbar wenn Voraussetzungen …?*
+  [Abstract](abstracts/H851_Vortrag_Rasch_070116.pdf)
+
+
+# 2006
+
+### 16. November 2006
+- **Maja Pohar**  
+  *Regression in Relative Survival using R*  
+  [Abstract](abstracts/2006_16_Nov_Pohar.pdf)
+
+### 20. Oktober 2006
+- **David Kreil**  
+  *RNA expression profiling with microarrays - Interplay of experiments and analysis*  
+  [Abstract](abstracts/2006_20_Okt_Kreil.pdf)
+
+### 13. Juni 2006
+- **Thomas Lang**  
+  *Arzneimittelzulassung in der EU …*  
+  [Abstract](abstracts/2006_13_Juni_Lang.pdf)
+
+### 27. März 2006
+- **Gernot Wassmer**  
+  *On Estimation in Adaptive Survival Trials*  
+  [Abstract](abstracts/2006_27_Maerz_Wassmer.pdf)
+
+### 13. März 2006
+- **Frank Bretz**  
+  *Combining Multiple Comparisons and Modeling Techniques in Dose Response Studies*  
+  [Abstract](abstracts/2006_13_Maerz_Bretz.pdf)
+
+### 6. März 2006
+- **Siegfried Hörmann**  
+  *Modellierung und Prognose der Feinstaubkonzentration in Graz*  
+  [Abstract](abstracts/2006_9_Maerz_Hoermann.pdf)
+
+### 23. Februar 2006
+- **Stefan Michiels**  
+  *Issues in the prediction of cancer outcome with microarrays*  
+  [Abstract](abstracts/2006_23_Feb_Michiels.pdf)
+
+### 16. Januar 2006
+- **Arndt Peter von Haeseler**  
+  *Stochastic Models of Sequence Evolution*  
+  [Abstract](abstracts/2006_16_Jan_vonHaeseler.pdf)
+
+
+# 2005
+
+### 10. November 2005
+- **Daniele De Martini**  
+  *Estimating Sample Size and Reproducibility for Nonparametric Statistical Tests*  
+  [Abstract](abstracts/2005_10_Nov_DeMartini.pdf)
+
+### 27. Oktober 2005
+- **Franz König**  
+  *Zwischenergebnisse, Flexibilität und Ineffizienz*  
+  [Abstract](abstracts/2005_27_Okt_Koenig.pdf)
+
+### 29. Juli 2005
+- **Carina Ittrich**  
+  *Penalized Maximum Likelihood Regression*  
+  [Abstract](abstracts/2005_29_Juli_Ittrich.pdf)
+
+### 16. Juni 2005
+- **Gregor Laaha**  
+  *Regionalisierung von Niederwasserkennwerten …*  
+  [Abstract](abstracts/2005_16_Juni_Laaha.pdf)
+
+### 9. Juni 2005
+- **Yasemin Genç**  
+  *Closed Form Methods to Compare Two Proportions for Clustered Data*  
+  [Abstract](abstracts/2005_9_Juni_Genc.pdf)
+
+### 3. Mai 2005
+- **Margit Ehrenmüller und Johannes Dobretsberger**  
+  *Analysieren und planen von med. Studien …*  
+  [Abstract](abstracts/2005_3_Mai_Ehrenmueller.pdf)
+
+### 27. April 2005
+- **Bernhard Spangl**  
+  *On Robust Spectral Density Estimation …*  
+  [Abstract](abstracts/2005_27_April_Spangl.pdf)
+
+### 28. Februar 2005
+- **Daniel Rabczenko**  
+  *Estimation of short-term effect of air pollution …*  
+  [Abstract](abstracts/2005_28feb_Rabczenko.pdf)
+
+
+# 2004
+
+### 15. Dezember 2004
+- **Richard Petritsch**  
+  *Anwendung und Validierung des Klimainterpolationsmodells DAYMET in Österreich*  
+  [Abstract](abstracts/2004_15_Dez_Petritsch.pdf)
+
+### 11. November 2004
+- **Malinee Laopaiboon**  
+  *Meta-analyses involving cluster randomization trials …*  
+  [Abstract](abstracts/2004_11_Nov_Laop.pdf)
+
+### 14. Oktober 2004
+- **Friedrich Leisch**  
+  *R: Freie Software für Statistische Datenanalyse und Graphik*  
+  [Abstract](abstracts/2004_14_Okt_Leisch.pdf)
+
+### 21. Juni 2004
+- **William F. Rosenberger**  
+  *Maximizing Power and Minimizing Treatment Failures in Clinical Trials*  
+  [Abstract](abstracts/2004_21_Juni_Rosenberger.pdf)
+
+### 26. Mai 2004
+- **Barbara Kavsek**  
+  *PLS (Partial Least Squares) Regression und ihre Anwendungen*  
+  [Abstract](abstracts/2004_26_Mai_Kavsek.pdf)
+
+### 29. April 2004
+- **K.-D. Wernecke**  
+  *A Mixed Model Approach to Discriminant Analysis with Longitudinal Data*  
+  [Abstract](abstracts/2004_29_April_Wernecke.pdf)
+
+### 24. Februar 2004
+- **Margit Ehrenmüller**  
+  *SAS Enterprise Guide : Statistische Auswertungen für Nichtstatistiker …*  
+  [Abstract](abstracts/2004_24_Feb_EhrenMueller.pdf)
+
+
+# 2003
+
+### 6. Oktober 2003
+- **Tze Leung Lai**  
+  *Power, sample size and adaptation considerations …*  
+  [Abstract](abstracts/2003_6_Okt_Lai.pdf)
+
+### 11. April 2003
+- **John Nelder**  
+  *Extended likelihood inference applied to a new class of models.*  
+  [Abstract](abstracts/2003_11_April_Nelder.pdf)
+
+### 1. April 2003
+- **Kurt Hornik**  
+  *Neurale Netze und Biostatistik*  
+  [Abstract](abstracts/2003_1_April_Hornik.pdf)
+  
+  [Slides](abstracts/Hornik_nnbio.pdf)
+
+### 23. Jänner 2003
+- **Albrecht Neiß**  
+  *Biometrisches Zentrum für Multiple Sklerose-Forschung.*  
+  [Abstract](abstracts/2003_23_Jan_Neiss.pdf)
+
+### 20. Jänner 2003
+- **Anette Kopp-Schneider (Heidelberg)**  
+  *Stochastische Modelle für die Hepatokarzinogenese.*  
+  [Abstract](abstracts/2003_20_Jan_KoppSchneider.pdf)
+
+
+# 2002
+
+### 11. Dezember 2002
+- **Marcus Hudec (Wien)**  
+  *Datamining.*  
+  [Abstract](abstracts/2002_11_Dez_Hudec.pdf)
+
+### 27. November 2002
+- **Sharon Kühlmann (Göteborg)**  
+  *A matched case-control study in the forest: influence of trees on understory vegetation.*  
+  [Abstract](abstracts/2002_27_Nov_Kuehlmann.pdf)
+
+### 27. September 2002
+- **Albrecht Neiß (München)**  
+  *Biometrisches Zentrum für Multiple Sklerose-Forschung*  
+  [Abstract](abstracts/2002_27_Sept_Neiss.pdf)
+
+### 12. Juni 2002
+- **Alexander Ploner**  
+  *Modellieren von Besucherzahlen mit Regressionsbäumen*  
+  [Abstract](abstracts/2002_12_Juni_Ploner.pdf)
+
+### 22. Mai 2002
+- **Werner G. Müller**  
+  *Residualdiagnostik für Variogrammschätzung*  
+  [Abstract](abstracts/2002_22_Mai_Mueller.pdf)
+
+### 24. Jänner 2002
+- **Patrick Royston**  
+  *Flexible parametric models for censored survival data …*  
+  [Abstract](abstracts/2002_24_Jan_Royston.pdf)
+
+### 16. Jänner 2002
+- **Christine Mannhalter**  
+  *Durchführung und Einsatzgebiete von Gen-Chip Analysen (Microarrays)*  
+  [Abstract](abstracts/2002_16_Jan_Mannhalter.pdf)
+
+### 11. Jänner 2002
+- **David Firth**  
+  *Maximum likelihood estimates: bias, finiteness, shrinkage*  
+  [Abstract](abstracts/2002_11_Jan_Firth.pdf)
+
+
+# 2001
+
+### 13. Juni 2001
+- **Thomas Waldhör**  
+  *Aus der räumlichen Epidemiologie*  
+  [Abstract](abstracts/2001_13_Juni_Waldhoer.pdf)
+
+### 31. Jänner 2001
+- **Christine Mannhalter**  
+  *Molekularbiologische Untersuchungen in der Medizin - Grundlagen für Statistiker*  
+  [Abstract](abstracts/2001_31_Jan_Mannhalter.pdf)
+
+
+# 2000
+
+### 8. November 2000
+- **Alessandra Nardi (University of Teramo and University of Vienna)**  
+  *On residuals analysis for survival data*  
+  [Abstract](abstracts/2000_8_Nov_Nardi.pdf)
+
+### 11. Oktober 2000
+- **Christine Mannhalter**  
+  *Molekularbiologische Untersuchungen in der Medizin - Grundlagen für Statistiker*  
+  [Abstract](abstracts/2000_11_Okt_Mannhalter.pdf)
+
+### 6. März 2000
+- **Werner Brannath**  
+  *Monotone Confidence Bounds in Adaptive Two Stage Combination Tests*  
+  [Abstract](abstracts/2000_6_Maerz_Brannath.pdf)
+
+### 25. Jänner 2000
+- **Hubert Hasenauer**  
+  *Die simultanen Eigenschaften von Waldwachstumsmodellen*  
+  [Abstract](abstracts/2000_25_Jan_Hasenauer.pdf)
+
+
+# 1999
+
+### 13. Dezember 1999
+- **Erika Graf**  
+  *Schätzung des Vorhersagefehlers in der Überlebenszeitanalyse*  
+  [Abstract](abstracts/1999_13_Dez_Graf.pdf)
+
+### 23. November 1999
+- **Helmut Finner**  
+  *Stichprobenumfangsbestimmungen für Mehrentscheidungsverfahren …*  
+  [Abstract](abstracts/1999_23_Nov_Finner.pdf)
+
+### 4. Mai 1999
+- **John Whitehead**  
+  1. *Sequential designs for comparative clinical trials*  
+  2. *Sequential trials with more than two treatments or more than one endpoint*
+
+[Abstract](abstracts/1999_4_Mai_Whitehead.pdf)
+
+### 15. April 1999
+- **Fulvio De Santis**  
+  *Recent Issues in Bayesian Model Selection*  
+  [Abstract](abstracts/1999_15_April_DeSantis.pdf)
+
+
+
+
+---
+
