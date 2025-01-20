@@ -1,0 +1,8 @@
+---
+title: "Redirect"
+format:
+  html
+---
+
+<!-- In the body, add the meta refresh tag to point to root ("/") -->
+<meta http-equiv="refresh" content="0; url=/" />
