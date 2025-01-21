@@ -338,14 +338,14 @@ resources:
   *Directed Acyclic Graphs: A Useful Modern Tool in Epidemiology (SLIDES)*  
   [Abstract](abstracts/20181203_Bellocco.pdf)
   
-  [Slides](RinoBellocco2018.pdf)
+  [Slides](abstracts/RinoBellocco2018.pdf)
 
 ### 8. Oktober
 - **Jack Bowden (University of Bristol)**  
   *Recent Advances in Two-Sample Summary Data Mendelian Randomization (SLIDES)*  
   [Abstract](abstracts/20181008_Bowden.pdf)
   
-  [Slides](JackVienna2018.pdf)
+  [Slides](abstracts/JackVienna2018.pdf)
 
 ### 5. Juli
 - **Arsenio Nhacolo (University of Bremen)**  
@@ -357,7 +357,7 @@ resources:
   *Robust Linear and Logistic Regression in High Dimension (SLIDES)*  
   [Abstract](abstracts/20180618_Filzmoser.pdf)
   
-  [Slides](robust_enetreg.pdf)
+  [Slides](abstracts/robust_enetreg.pdf)
 
 ### 14. Mai
 - **Peter Steiner (University of Wisconsin)**  
@@ -389,7 +389,7 @@ resources:
   *A Design Criterion for Symmetric Model Discrimination Based on Nominal Confidence Sets (SLIDES)*  
   [Abstract](abstracts/20180409_Mueller.pdf)
   
-  [Slides](vienna_mueller.pdf)
+  [Slides](abstracts/vienna_mueller.pdf)
 
 ### 22. März
 - **Daria Kim (Max-Planck Institut, München)**  
@@ -411,7 +411,7 @@ resources:
   *Arm-based Network Meta-analysis (SLIDES)*  
   [Abstract](abstracts/20180312_Piepho.pdf)
   
-  [Slides](Folien_Piepho_BOKU2018.pdf)
+  [Slides](abstracts/Folien_Piepho_BOKU2018.pdf)
 
 ### 22. Februar
 - **Gerhard Svolba (SAS Österreich)**  
@@ -419,9 +419,9 @@ resources:
   *Vortrag 2 – Aktuelle Anforderungen an eine analytische Plattform - Offenheit bzgl. der Benutzerschnittstellen und methodische Vielfalt (SLIDES)*  
   [Abstract](abstracts/20180222_Svolba.pdf)
   
-  [Slides 1](SvolbaSAS_WBS2018_ApplyingDataScience.pdf)
+  [Slides 1](abstracts/SvolbaSAS_WBS2018_ApplyingDataScience.pdf)
   
-  [Slides 2](Svolba_WBS2018_DifferentUserRoles_withSASViya.pdf)
+  [Slides 2](abstracts/Svolba_WBS2018_DifferentUserRoles_withSASViya.pdf)
 
 
 # 2017
