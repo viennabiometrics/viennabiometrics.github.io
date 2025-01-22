@@ -25,12 +25,17 @@ resources:
 
 ### 21. Jänner
 **Two online talks via Webex**  
+
 - **Dong Xi (Gilead Sciences)**  
   *When convention meets practicality: Combined Analysis Testing under the Two-Trials Convention*  
 - **Marc Vandemeulebroecke (UCB Farchim SA)**  
   *Confirmatory testing of secondary hypotheses on combined data from multiple trials – case studies and reflections*
 
-[Abstract](abstracts/20250121_ Dong_Xi_and_Marc_Vandemeulebroecke.pdf)
+  [Abstract](abstracts/20250121_ Dong_Xi_and_Marc_Vandemeulebroecke.pdf)
+
+  [Slides 1](abstracts/21Jan2025.pdf)
+
+  [Slides 2](abstracts/Vandemeulebroecke_WBS2024.pdf)
 
 ### 15. Jänner
 - **Michael Kammer (Medical University Vienna)**  
