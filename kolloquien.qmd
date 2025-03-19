@@ -11,6 +11,12 @@ resources:
 
 # 2025
 
+### 24. April
+- **Ludwig A. Hothorn (Retired from Leibniz Universiyt Hannover, Germany)**
+  *The Dunnett Procedure in Two-way Factorial Layouts when Interaction is Possible*
+
+  [Abstract](abstracts/20250424_WBS_Hothorn.pdf)
+
 ### 19. Februar
 - **Tim Müller und Hannes Buchner (Staburo GmbH Munich)**
   *Permutation-based Multiple Testing-Controlled Variable Selection Using Random Forests*
