@@ -12,28 +12,24 @@ resources:
 # 2025
 
 ### 24. April
-- **Ludwig A. Hothorn (Retired from Leibniz Universiyt Hannover, Germany)**
-  *The Dunnett Procedure in Two-way Factorial Layouts when Interaction is Possible*
-
+- **Ludwig A. Hothorn (Retired from Leibniz Universiyt Hannover, Germany)**  
+  *The Dunnett Procedure in Two-way Factorial Layouts when Interaction is Possible*  
   [Abstract](abstracts/20250424_WBS_Hothorn.pdf)
   
 ### 10. April
-- **Scott Evans and Toshimitsu Hamasaki (George Washington University)**
-  *A patient-Centric paradigm for clinical research: The DOOR is open*
-  
+- **Scott Evans and Toshimitsu Hamasaki (George Washington University)**  
+  *A patient-Centric paradigm for clinical research: The DOOR is open*  
   [Abstract](abstracts/20250410_WBS_Evans_Hamasaki.pdf)
 
 ### 19. Februar
-- **Tim Müller und Hannes Buchner (Staburo GmbH Munich)**
-  *Permutation-based Multiple Testing-Controlled Variable Selection Using Random Forests*
-
+- **Tim Müller und Hannes Buchner (Staburo GmbH Munich)**  
+  *Permutation-based Multiple Testing-Controlled Variable Selection Using Random Forests*  
   [Abstract](abstracts/20250219_WBS_Mueller_Buchner.pdf)
 
 ### 12. Februar
-- **Manuel Müller (Statistical Laboratory, University of Cambridge)**
-  *Isotonic Subgroup Selection*
-  
-  [Abstract](abstracts/20250212_WBS_Mueller.pdf)
+- **Manuel Müller (Statistical Laboratory, University of Cambridge)**  
+  *Isotonic Subgroup Selection*  
+  [Abstract](abstracts/20250212_WBS_Mueller.pd)
 
 ### 21. Jänner
 **Two online talks via Webex**  
