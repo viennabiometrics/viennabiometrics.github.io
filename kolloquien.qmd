@@ -17,9 +17,11 @@ resources:
   [Abstract](abstracts/20250424_WBS_Hothorn.pdf)
   
 ### 10. April
-- **Scott Evans and Toshimitsu Hamasaki (George Washington University)**  
+- **Toshimitsu Hamasaki and Scott Evans (George Washington University)**  
   *A patient-Centric paradigm for clinical research: The DOOR is open*  
   [Abstract](abstracts/20250410_WBS_Evans_Hamasaki.pdf)
+  
+  [Slides](abstracts/DOOR_Short_Course_Vienna_Evans_Hamasaki_APR_9_2025.pdf)
 
 ### 19. Februar
 - **Tim Müller und Hannes Buchner (Staburo GmbH Munich)**  
