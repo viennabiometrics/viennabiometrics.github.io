@@ -11,6 +11,11 @@ resources:
 
 # 2025
 
+### 8. May
+- **Matthias Schmid (Institute for Medical Biometry, Informatics and Epidemiology, University of Bonn, Bonn, Germany)**  
+  *Achieving explainable machine learning by functional decomposition of black-box models into explainable predictor effects*  
+  [Abstract](abstracts/20250805_WBS_Schmid.pdf)
+
 ### 24. April
 - **Ludwig A. Hothorn (Retired from Leibniz Universiyt Hannover, Germany)**  
   *The Dunnett Procedure in Two-way Factorial Layouts when Interaction is Possible*  
