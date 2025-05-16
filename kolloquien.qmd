@@ -11,6 +11,11 @@ resources:
 
 # 2025
 
+### 28. May
+- **Peter Mueller (The University of Texas at Austin, USA)**  
+  *Common Atoms Mixture Models in some Biostatistical Inference Problems*  
+  [Abstract](abstracts/20250528_WBS_Mueller.pdf)
+
 ### 8. May
 - **Matthias Schmid (Institute for Medical Biometry, Informatics and Epidemiology, University of Bonn, Bonn, Germany)**  
   *Achieving explainable machine learning by functional decomposition of black-box models into explainable predictor effects*  
