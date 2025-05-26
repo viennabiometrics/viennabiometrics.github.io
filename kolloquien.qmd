@@ -11,6 +11,11 @@ resources:
 
 # 2025
 
+### 25. June
+- **Thaddaeus Egondi (Data Management and Biostatistics, DNDi, Nairobi, Kenya)**  
+  *Overview of CDISC: Implementation for Clinical Trials, Benefits and Challenges*  
+  [Abstract](abstracts/20250625_WBS_Egondi.pdf)
+
 ### 28. May
 - **Peter Mueller (The University of Texas at Austin, USA)**  
   *Common Atoms Mixture Models in some Biostatistical Inference Problems*  
