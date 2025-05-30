@@ -15,6 +15,11 @@ resources:
 - **Thaddaeus Egondi (Data Management and Biostatistics, DNDi, Nairobi, Kenya)**  
   *Overview of CDISC: Implementation for Clinical Trials, Benefits and Challenges*  
   [Abstract](abstracts/20250625_WBS_Egondi.pdf)
+  
+### 18. June
+- **Ben van Calster (Department of Development and Regeneration, KU Leuven, Leuven, Belgium)**  
+  *Performance evaluation of predictive AI models to support medical decisions: overview and guidance*  
+  [Abstract](abstracts/20250618_WBS_vanCalster.pdf)
 
 ### 28. May
 - **Peter Mueller (The University of Texas at Austin, USA)**  
