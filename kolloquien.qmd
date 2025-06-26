@@ -11,6 +11,11 @@ resources:
 
 # 2025
 
+### 2. July, 15:00
+- **Georg Zimmermann (Department of Artificial Intelligence and Human Interfaces, Paris Lodron University Salzburg)**  
+  *Longitudinal data analysis in (pre-)clinical research on rare diseases*  
+  [Abstract](abstracts/20250702_WBS_Zimmermann.pdf)
+
 ### 25. June
 - **Thaddaeus Egondi (Data Management and Biostatistics, DNDi, Nairobi, Kenya)**  
   *Overview of CDISC: Implementation for Clinical Trials, Benefits and Challenges*  
