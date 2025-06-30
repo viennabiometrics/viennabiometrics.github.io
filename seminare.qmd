@@ -4,10 +4,16 @@ format: html
 ---
 
 ## 2024
+- **Joint Seminar with the Biometric Section of Styria-Carinthia**  
+  [**Program & Abstracts**](abstracts/Meeting_Graz_Wien_2024.pdf)  
+  **Organizers**: Thomas Kuenzer (Medizinische Universität Graz), Florian Frommlet (Medizinische Universität Wien)  
+  28 November 2024, 11:30 - 16:45
+
 - **Summer Biometric Seminar 2024**  
   *Bridging the Gap Between Bayesian & Frequentist Approaches in Clinical Trials for Drug Development*  
   [**Program & Abstracts**](abstracts/20240621_Biometric_Seminar_Summer_2024.pdf)  
   **Organizers**: Franz König, Elias Laurin Meyer  
+  21 June 2024, 09:00 - 12:00
 
 ## 2023
 - **Herbstseminar SAMBA**  
