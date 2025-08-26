@@ -11,6 +11,11 @@ resources:
 
 # 2025
 
+### 1. October, 10:00
+- **Laure Wynants (Department of Epidemiology, Care and Public Health Research Institute, Maastricht University, The Netherlands & Leuven Unit for Health Technology Assessment, KU Leuven, Belgium)**  
+  *Prediction models in Healthcare: Quantifying risks of uncertainty using Value-of-Information measures*  
+  [Abstract](abstracts/20251001_WBS_Wynants.pdf)
+
 ### 2. July, 15:00
 - **Georg Zimmermann (Department of Artificial Intelligence and Human Interfaces, Paris Lodron University Salzburg)**  
   *Longitudinal data analysis in (pre-)clinical research on rare diseases*  
