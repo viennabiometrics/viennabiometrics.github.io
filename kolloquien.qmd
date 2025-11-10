@@ -11,6 +11,16 @@ resources:
 
 # 2025
 
+### 26. November, 09:15
+- **Louise Jespersen (Institute of Medical Statistics, Center for Medical Data Science, Medical University of Vienna, Vienna, Austria)**  
+  *Causal Inference and the Hypothetical Estimand in Randomised Controlled Trials*  
+  [Abstract](abstracts/20251126_WBS_Jespersen.pdf)
+  
+### 12. November, 09:00
+- **Johannes Schwenke (CLEAR Methods Center, Division of Clinical Epidemiology, Department of Clinical Research, University Hospital Basel, University of Basel, Basel, Switzerland)**  
+  *Can Local, Open-Source LLMs Safely Unlock Routine Oncology Data?*  
+  [Abstract](abstracts/20251112_WBS_Schwenke.pdf)
+
 ### 1. October, 10:00
 - **Laure Wynants (Department of Epidemiology, Care and Public Health Research Institute, Maastricht University, The Netherlands & Leuven Unit for Health Technology Assessment, KU Leuven, Belgium)**  
   *Prediction models in Healthcare: Quantifying risks of uncertainty using Value-of-Information measures*  
