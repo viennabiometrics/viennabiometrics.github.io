@@ -16,6 +16,8 @@ resources:
   *Causal Inference and the Hypothetical Estimand in Randomised Controlled Trials*  
   [Abstract](abstracts/20251126_WBS_Jespersen.pdf)
   
+  [Slides](abstracts/20251126_WBS_Jespersen_Slides.pdf)
+  
 ### 12. November, 09:00
 - **Johannes Schwenke (CLEAR Methods Center, Division of Clinical Epidemiology, Department of Clinical Research, University Hospital Basel, University of Basel, Basel, Switzerland)**  
   *Can Local, Open-Source LLMs Safely Unlock Routine Oncology Data?*  
