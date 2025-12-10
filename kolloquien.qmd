@@ -11,6 +11,13 @@ resources:
 
 # 2025
 
+### 21. January, 09:00
+- **Leonhard Held (Epidemiology, Biostatistics and Prevention Institute (EBPI) und Center for Reproducible Science (CRS), University of Zurich, Switzerland)**  
+  *The experimental unit information index: balancing evidentiary value and sample size of adaptive designs*  
+  [Abstract](abstracts/20260121_WBS_Held.pdf)
+
+# 2025
+
 ### 26. November, 09:15
 - **Louise Jespersen (Institute of Medical Statistics, Center for Medical Data Science, Medical University of Vienna, Vienna, Austria)**  
   *Causal Inference and the Hypothetical Estimand in Randomised Controlled Trials*  
