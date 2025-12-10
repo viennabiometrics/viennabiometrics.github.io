@@ -9,7 +9,7 @@ resources:
   - "abstracts/*.pdf"
 ---
 
-# 2025
+# 2026
 
 ### 21. January, 09:00
 - **Leonhard Held (Epidemiology, Biostatistics and Prevention Institute (EBPI) und Center for Reproducible Science (CRS), University of Zurich, Switzerland)**  
