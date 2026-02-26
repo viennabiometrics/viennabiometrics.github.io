@@ -11,6 +11,11 @@ resources:
 
 # 2026
 
+### 04. March, 09:15
+- **Cyrus Mehta  (President and Co-founder of Cytel Inc. Adjunct Professor, Department of Biostatistics, Harvard T.H. Chan School of Public Health)**  
+  *Flexible adaptive procedures for testing multiple treatments, endpoints or populations in confirmatory clinical trials*  
+  [Abstract](abstracts/20260304_WBS_Mehta.pdf)
+
 ### 21. January, 09:00
 - **Leonhard Held (Epidemiology, Biostatistics and Prevention Institute (EBPI) und Center for Reproducible Science (CRS), University of Zurich, Switzerland)**  
   *The experimental unit information index: balancing evidentiary value and sample size of adaptive designs*  
