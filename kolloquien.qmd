@@ -11,6 +11,11 @@ resources:
 
 # 2026
 
+### 28. April, 14:00
+- **Stephen Senn (University of Sheffield, University of St Andrews and Medical University of Vienna)**  
+  *Standard errors in representing Fisher’s views on randomisation*  
+  [Abstract](abstracts/20260428_WBS_Senn.pdf)
+
 ### 04. March, 09:15
 - **Cyrus Mehta  (President and Co-founder of Cytel Inc. Adjunct Professor, Department of Biostatistics, Harvard T.H. Chan School of Public Health)**  
   *Flexible adaptive procedures for testing multiple treatments, endpoints or populations in confirmatory clinical trials*  
