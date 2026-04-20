@@ -16,6 +16,11 @@ resources:
   *Standard errors in representing Fisher’s views on randomisation*  
   [Abstract](abstracts/20260428_WBS_Senn.pdf)
 
+### 23. April, 09:00
+- **S. Wied (1), D. Bodden (1,2), V. Ihl (1,2), S. Schoenen (1,2) (1 Sigmund Freud Private University, Vienna, Austria; 2 RWTH Aachen University, Aachen, Germany)**  
+  *Challenges in rare disease clinical trials: Randomization, bias and statistical inference*  
+  [Abstract](abstracts/20260423_WBS_Wied_Bodden_Ihl_Schoenen.pdf)
+
 ### 04. March, 09:15
 - **Cyrus Mehta  (President and Co-founder of Cytel Inc. Adjunct Professor, Department of Biostatistics, Harvard T.H. Chan School of Public Health)**  
   *Flexible adaptive procedures for testing multiple treatments, endpoints or populations in confirmatory clinical trials*  
