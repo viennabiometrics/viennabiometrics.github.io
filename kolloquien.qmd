@@ -11,6 +11,11 @@ resources:
 
 # 2026
 
+### 7. May, 13:00
+- **Yang Han  (Department of Mathematics, The University of Manchester, UK)**  
+  *Confident and logical selection of a biomarker cut-point for patient targeting*  
+  [Abstract](abstracts/20260507_WBS_Han.pdf)
+
 ### 28. April, 14:00
 - **Stephen Senn (University of Sheffield, University of St Andrews and Medical University of Vienna)**  
   *Standard errors in representing Fisher’s views on randomisation*  
