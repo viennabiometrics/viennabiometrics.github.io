@@ -11,6 +11,11 @@ resources:
 
 # 2026
 
+### 27. May, 09:00
+- **Carsten Oliver Schmidt  (Institute for Community Medicine, SHIP-KEF, University Medicine of Greifswald, Greifswald, Germany)**  
+  *What do I need for automated data quality assessments? Concept and application example based on the Study of Health in Pomerania (SHIP).*  
+  [Abstract](abstracts/20260527_WBS_Schmidt.pdf)
+
 ### 7. May, 13:00
 - **Yang Han  (Department of Mathematics, The University of Manchester, UK)**  
   *Confident and logical selection of a biomarker cut-point for patient targeting*  
