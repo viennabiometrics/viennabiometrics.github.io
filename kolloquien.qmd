@@ -11,6 +11,11 @@ resources:
 
 # 2026
 
+### 24. June, 09:00
+- **Cristina Marelli  (Inserm, Université Paris-Saclay, CESP U1018, Oncostat, labeled Ligue Contre le Cancer, Villejuif, France; Inserm U1331, STAMPM, Institut Curie, Saint-Cloud, FranceChallenges in rare disease clinical trials)**  
+  *Using permutation-based tests to evaluate an adaptive molecular treatment algorithm in randomized precision oncology trials*  
+  [Abstract](abstracts/20260624_WBS_Marelli.pdf)
+
 ### 27. May, 09:00
 - **Carsten Oliver Schmidt  (Institute for Community Medicine, SHIP-KEF, University Medicine of Greifswald, Greifswald, Germany)**  
   *What do I need for automated data quality assessments? Concept and application example based on the Study of Health in Pomerania (SHIP).*  
