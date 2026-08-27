@@ -11,6 +11,11 @@ resources:
 
 # 2026
 
+### 8. September, 09:00
+- **Xinping Cui  (Department of Statistics, University of California, Riverside, USA)**  
+  *Principles of Conditionality and Layering of Error Rates with Application to Platform Trials*  
+  [Abstract](abstracts/20260908_WBS_Xinping Cui.pdf)
+
 ### 24. June, 09:00
 - **Cristina Marelli  (Inserm, Université Paris-Saclay, CESP U1018, Oncostat, labeled Ligue Contre le Cancer, Villejuif, France; Inserm U1331, STAMPM, Institut Curie, Saint-Cloud, FranceChallenges in rare disease clinical trials)**  
   *Using permutation-based tests to evaluate an adaptive molecular treatment algorithm in randomized precision oncology trials*  
