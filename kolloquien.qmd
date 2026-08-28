@@ -11,7 +11,7 @@ resources:
 
 # 2026
 
-### 8. September, 09:00
+### 8. September, 11:00
 - **Xinping Cui  (Department of Statistics, University of California, Riverside, USA)**  
   *Principles of Conditionality and Layering of Error Rates with Application to Platform Trials*  
   [Abstract](abstracts/20260908_WBS_Xinping Cui.pdf)
