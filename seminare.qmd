@@ -3,6 +3,12 @@ title: "Seminare und Events"
 format: html
 ---
 
+## 2026
+- **Joint Seminar with the Biometric Section of Styria-Carinthia**  
+  [**Program & Abstracts**](abstracts/20261124_Meeting_Wien_Graz.pdf)  
+  **Organizers**: Thomas Kuenzer (Medizinische Universität Graz), Florian Frommlet (Medizinische Universität Wien)  
+  24 November 2026, 13:00 - 17:00
+
 ## 2024
 - **Joint Seminar with the Biometric Section of Styria-Carinthia**  
   [**Program & Abstracts**](abstracts/Meeting_Graz_Wien_2024.pdf)  
